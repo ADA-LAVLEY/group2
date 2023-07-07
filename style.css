@@ -1,0 +1,45 @@
+.asos{
+      display: grid;
+      grid-template-columns: auto auto auto;
+      justify-content: center;
+      position: relative;
+      top: 500px;
+      color: aqua;
+}
+
+.text{
+      width: 390px;
+}
+
+.box{
+      display: flex;
+}
+
+.hp{
+      position: relative;
+      top: -15px;
+}
+
+.ph{
+      position: relative;
+}
+
+.asosi{
+      margin-left: 50px;
+}
+
+.carousel-inner{
+      position: relative;
+      left: 300px;
+      top: 200px;
+}
+
+.nomsiz{
+      display: flex;
+}
+
+.hhh{
+      width: 800px;
+      margin-left: 50px;
+      margin-top: 70px;
+}
