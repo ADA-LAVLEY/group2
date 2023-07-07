@@ -1,10 +1,6 @@
 .asos{
       display: grid;
-      grid-template-columns: auto auto auto;
-      justify-content: center;
-      position: relative;
-      top: 500px;
-      color: aqua;
+   
 }
 
 .text{
